@@ -217,4 +217,3 @@ Used by Karma and Jasmine to run tests.
 Let’s build Angular apps that are clean, modular, and ready for real-world deployment!
 ```
 
-Let me know when you're ready for Day 2—I’ll prep notes on **Components, Templates, and Data Binding** with real-time examples!
