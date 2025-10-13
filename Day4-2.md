@@ -254,4 +254,3 @@ All of these combine to create a **dynamic, real-time Angular UI**.
 
 ---
 
-Would you like me to save this as a Markdown file (e.g. `structural-directives-notes.md`) for you?
